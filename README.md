@@ -10,9 +10,9 @@ The UK Food Standards Agency evaluates various establishments across the United 
 3. `Resources` Folder with original [`establishments.json`](https://github.com/jflengkong/nosql-challenge/blob/main/Resources/establishments.json) file for import and analysis
 
 ## The instructions for this mini project are divided into the following subsections:
-- [Part 1:](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-1-Create-the-Category-and-Subcategory-DataFrames)Database and Jupyter Notebook Set Up 
-- [Part 2: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-2-Create-the-Campaign-DataFrame)Update the Database
-- [Part 3: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-3-Create-the-Crowdfunding-Database)Exploratory Analysis
+- [Part 1:](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-1-Database-and-Jupyter-Notebook-Set-Up)Database and Jupyter Notebook Set Up 
+- [Part 2: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-2-Update-the-Database)Update the Database
+- [Part 3: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-3-Exploratory-Analysis)Exploratory Analysis
 
 ## Part 1: Database and Jupyter Notebook Set Up
  [`NoSQL_setup_starter.ipynb`](https://github.com/jflengkong/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb) was used in this part to import the provided [`establishments.json`](https://github.com/jflengkong/nosql-challenge/blob/main/Resources/establishments.json). The test `"C:\Program Files\MongoDB\Server\7.0\bin\mongod.exe" --dbpath="c:\data\db"` was actioned in Terminal prior to starting to ensure connection to MongoDB was implemented. Here the setup involved ensuring the created database loaded the data properly. 
